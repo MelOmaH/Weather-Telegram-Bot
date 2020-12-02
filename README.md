@@ -1,6 +1,6 @@
-#Telegram Bot
+# Telegram Bot
 
-####What is it?
+#### What is it?
 The Telegram Bot is a simple bot for checking current weather
  in any city what you want.<br>
  
@@ -9,7 +9,7 @@ The Telegram Bot is a simple bot for checking current weather
  + Maven;<br>
  + You can also import the code straight into your IDE and start.<br>
  
- ***If what - you can dowload*** <br>
+ ***If what - you can download*** <br>
  ***[JDK](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html)*** <br>
  ***[Maven](https://apache.ip-connect.vn.ua/maven/maven-3/3.6.3/binaries/apache-maven-3.6.3-bin.zip)*** <br>
  
